@@ -15,6 +15,4 @@ package org.example;
              System.out.println("drawing of  Circle ");
          }
 
-
-
  }
